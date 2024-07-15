@@ -6,4 +6,5 @@
 
 这个dll是我个人封装的，防止美术不小心修改导致bug。源码也很简单，需要的自己反编译一下就好。
 
-![image](https://github.com/SadasyKing/Unity-Scene-Tool/blob/main/SceneTools.png)
+![image](https://github.com/SadasyKing/Unity-SceneTool/blob/main/SceneTools.png)
+
