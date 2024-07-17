@@ -6,5 +6,8 @@
 
 这个dll是我个人封装的，防止美术不小心修改导致bug。源码也很简单，需要的自己反编译一下就好。
 
+————7.17更新，增加轨迹（linerender）部分，可以根据子物体点位设置linerender上的点，或者使用现有LineRenderer规律生成物体。详情可参考下图
+
 ![image](https://github.com/SadasyKing/Unity-SceneTool/blob/main/SceneTools.png)
 
+![image](https://github.com/SadasyKing/Unity-SceneTool/blob/main/excample.png)
